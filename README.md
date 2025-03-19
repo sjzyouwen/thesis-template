@@ -21,7 +21,7 @@
 ## 论文封面生成方法
 1. 在[友文文档刷-论文封面制作](https://www.wendangshua.com/tpl/list/thesiscover?page=1)页面查找学校。
 2. 在列表中点击要制作的封面样式，将跳转到如下界面。左侧为封面预览图（非最终效果，不是实时渲染），右侧区域内需填写论文封面所需的基本信息。填写完成后带年纪右上角的**生成封面**可获取自动制作的大学论文封面。  
-     ![](图片\封面制作.png)
+     ![](/images/封面制作.png)
 
 
 ---
@@ -62,8 +62,8 @@
 | -----------   | ----------- | ----------- |
 | 邮箱   | sjzyouwen@163.com        ||
 | 电话      | 18852461056 ||
-| 微信      |18852461056| <img src="图片\wechat.jpeg" width = "120px" />  |
-| QQ   |  1979089091        |<img src="图片\qq.jpeg" width = "120px"  />|
+| 微信      |18852461056| ![](images/wechat.jpeg)  |
+| QQ   |  1979089091        |![](https://github.com/sjzyouwen/thesis-template/blob/master/images/qq.jpeg)|
 
 
 
